@@ -2,6 +2,16 @@
 
 This repository is a personal study space for building strong foundations in data structures and algorithms with JavaScript.
 
+## Interactive Studio Direction
+
+**Status: Planned. The interactive studio is not implemented yet.**
+
+DSA Dojo is intended to grow into an interactive algorithm studio where learners can see state change step by step, connect each visual transition to the code that caused it, and learn alongside an original guide companion.
+
+The written field guides and runnable JavaScript exercises remain the foundation. The interactive experience will be built alongside the learning process, beginning with arrays and expanding one proven topic at a time.
+
+Read the [interactive studio product vision](docs/product-vision.md) for the arrays-first concept, learning model, companion direction, acceptance criteria, and expansion roadmap.
+
 ## What This Repo Is
 
 The goal of this dojo is to turn abstract concepts into practical experience. Each topic folder includes:
